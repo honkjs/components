@@ -1,7 +1,7 @@
 {
   "name": "@honkjs/components",
   "version": "1.0.0",
-  "description": "Honk, because, by default, that is all that it does.",
+  "description": "Nanocomponent middleware for honk.",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
   "scripts": {
