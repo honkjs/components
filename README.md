@@ -1,4 +1,11 @@
-# honkjs/components
+# honkjs/components [![npm-img]][npm-link] [![dep-img]][dep-link] [![dev-img]][dev-link]
+
+[npm-img]: https://img.shields.io/npm/v/@honkjs/components.svg?style=flat-square 'npm version'
+[npm-link]: https://www.npmjs.com/package/@honkjs/components
+[dep-img]: https://david-dm.org/honkjs/components.svg?style=flat-square 'dependency status'
+[dep-link]: https://david-dm.org/honkjs/components
+[dev-img]: https://david-dm.org/honkjs/components/dev-status.svg?style=flat-square 'dev dependency status'
+[dev-link]: https://david-dm.org/honkjs/components?type=dev
 
 A honk middleware for creating and caching choo [nanocomponents](https://github.com/choojs/nanocomponent).
 
