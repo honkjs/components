@@ -18,13 +18,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/honkjs/honk.git"
+    "url": "git+https://github.com/honkjs/components.git"
   },
   "license": "Apache-2.0",
   "bugs": {
-    "url": "https://github.com/honkjs/honk/issues"
+    "url": "https://github.com/honkjs/components/issues"
   },
-  "homepage": "https://github.com/honkjs/honk",
+  "homepage": "https://github.com/honkjs/components",
   "dependencies": {
     "@honkjs/honk": "^1.0.2"
   },
