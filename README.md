@@ -23,6 +23,8 @@
 
 # honkjs/components
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/honkjs/components.svg)](https://greenkeeper.io/)
+
 A honk middleware for creating and caching choo [nanocomponents](https://github.com/choojs/nanocomponent).
 
 This is probably the most opinionated of the basic honk middlewares.
